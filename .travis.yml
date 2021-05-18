@@ -20,6 +20,5 @@ script:
 deploy:
   provider: heroku
   api_key: 
-    secure: $HEROKU_API_KEY
+    secure: 6efcec08-0d29-4d68-b52d-793173955fd3
   app: devopslabs-jean
-  cleanup: true
