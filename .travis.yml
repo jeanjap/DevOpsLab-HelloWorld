@@ -22,3 +22,4 @@ deploy:
   api_key: 
     secure: "6efcec08-0d29-4d68-b52d-793173955fd3"
   app: devopslabs-jean
+  skip_cleanup: true
